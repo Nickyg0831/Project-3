@@ -1,0 +1,10 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    text-align:center;
+    border:1px dashed;
+    box-sizing:border-box;
+    padding:10px;
+    margin-bottom:20px;
+}
